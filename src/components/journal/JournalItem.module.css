@@ -1,0 +1,25 @@
+.journalItem {
+    margin: 0.2rem 0;
+    background: #5c5a5b;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+  }
+
+  .journalItemSelected {
+    margin: 0.2rem 0;
+    background: blue;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+  }
+
+  .journalItem:hover {
+    background: #494099;
+  }
+
+  .journalItemSelected:hover {
+    background: #494099;
+  }

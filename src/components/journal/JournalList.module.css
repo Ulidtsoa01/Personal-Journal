@@ -1,0 +1,9 @@
+.journalList {
+    list-style-type: none;
+    max-height: 1000px;
+    overflow-y: auto;
+    width: 30rem;
+    margin: 0;
+    padding: 0;
+    border:2px solid #d1d0d0
+  }
