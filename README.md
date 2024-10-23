@@ -1,6 +1,8 @@
 # Personal Journal
 
-App for a personal journal. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple React app for keeping a personal journal. Supports importing and exporting entries with a JSON file.
+
+<img src="./example.jpg" width="auto" height="auto"/>
 
 ## Steps
 
